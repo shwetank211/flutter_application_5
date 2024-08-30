@@ -1,4 +1,4 @@
-#Album Manager Application
+# Album Manager Application
 Overview
 This application is designed to manage a list of music albums. It allows users to view all albums, add a new album, and delete an existing album. The UI has been customized for a unique and creative look.
 
@@ -47,27 +47,7 @@ DELETE /albums/{id}:
 
 Deletes an album based on the provided ID.
 The album is removed from the list upon successful deletion.
-Installation and Setup
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/album-manager-app.git
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd album-manager-app
-Install Dependencies: Ensure you have Flutter installed. Then run:
-
-bash
-Copy code
-flutter pub get
-Run the Application: Use the following command to run the application:
-
-bash
-Copy code
-flutter run
 Customization
 The UI has been customized to be more creative and unique compared to traditional album management apps.
 Feel free to further enhance the design by modifying the widgets, colors, and layout as per your preference.
@@ -84,12 +64,5 @@ Deleting an Album:
 
 To delete an album, simply click the delete icon on the album's tile.
 The album will be removed from the list.
-Screenshots
-(Include relevant screenshots of the app UI here)
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
